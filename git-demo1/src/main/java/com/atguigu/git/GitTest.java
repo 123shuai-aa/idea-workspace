@@ -9,6 +9,7 @@ public class GitTest {
         System.out.println("master test");
         System.out.println("master push");
         System.out.println("master pull");
+        System.out.println("gitHub 更新");
 
 
     }
